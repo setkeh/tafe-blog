@@ -1,7 +1,7 @@
-Miniature-Nemesis
+Tafe Blog
 =================
 
-The Source for my blog.
+The Source for my Network Admin Tafe Blog.
 
 Please Visit For Mor Info:
-http://setkeh.com
+http://networkadmin.setkeh.com
