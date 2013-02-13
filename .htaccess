@@ -1,0 +1,7 @@
+# Do not change the line below.
+
+RewriteEngine on
+
+# Change YOURDOMAIN.COM to be your main domain.
+RewriteCond %{HTTP_HOST} ^setkeh.com$
+RewriteRule ^$ http://setkeh.com/_site [L,R=301]
